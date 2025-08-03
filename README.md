@@ -1,28 +1,71 @@
-#### Hi there 👋
+# Hi there 👋
 
-<!--
-**chathucka/chathucka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Software Engineer | Full-Stack Developer
 
-Here are some ideas to get you started:
+I'm a passionate software engineer focused on **API development** and **frontend solutions**. I enjoy collaborating with tech leads and contributing to feature development, bringing ideas from concept to production.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ... => AWS, Cloud Computing, AI
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎯 What I Do
+- **Backend Development**: Building robust APIs and server-side solutions
+- **Frontend Development**: Creating responsive and dynamic user interfaces
+- **Team Collaboration**: Working closely with tech leads and development teams
+- **Feature Development**: Contributing to project planning and implementation
 
-##### 💻 Tech Stack:
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=plastic&logo=laravel&logoColor=white) ![Nuxt JS](https://img.shields.io/badge/Nuxt-002E3B?style=plastic&logo=nuxt.js&logoColor=#00DC82) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=plastic&logo=vuedotjs&logoColor=%234FC08D) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=plastic&logo=mysql&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=plastic&logo=oracle&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white)
-##### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=chathucka&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+### 🏆 Notable Projects
+- **Healthcare Management System (UK Clinics)** - Multi-clinic platform (Priman & Virtual Slimming Clinic)
+  - Scalable architecture supporting multiple clinic operations and treatment types
+  - Comprehensive API development and frontend integration
+  - Shared codebase with configurable branding and features
 
-##### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=chathucka&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+### 🌱 Currently Exploring
+- **Cloud Computing** (AWS)
+- **Machine Learning & Deep Learning**
+- Exploring cutting-edge technologies in the AI-driven landscape
+
+> *"Always learning, always growing - seeking the next worthy challenge in our AI-dominated world"*
+
+---
+
+## 💻 Current Tech Stack
+
+### Backend
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Frontend
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxt.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+
+### Tools & Environment
+![PHPStorm](https://img.shields.io/badge/PHPStorm-143?style=for-the-badge&logo=phpstorm&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+### Learning & Exploring
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+## 🤝 Let's Connect
+
+I'm always interested in discussing technology, sharing knowledge, and exploring new opportunities in software development.
+
+**📍 Location:** Sri Lanka  
+**💼 Company:** 10Qbit  
+**🎯 Focus:** Full-Stack Development, API Design, Technical Planning
+
+---
+
+<div align="center">
+  
+*"Building tomorrow's solutions with today's best practices"*
+
+![Profile Views](https://komarev.com/ghpvc/?username=chathucka&color=blueviolet&style=flat-square&label=Profile+Views)
+
+</div>
