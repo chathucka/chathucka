@@ -66,6 +66,4 @@ I'm always interested in discussing technology, sharing knowledge, and exploring
   
 *"Building tomorrow's solutions with today's best practices"*
 
-![Profile Views](https://komarev.com/ghpvc/?username=chathucka&color=blueviolet&style=flat-square&label=Profile+Views)
-
 </div>
